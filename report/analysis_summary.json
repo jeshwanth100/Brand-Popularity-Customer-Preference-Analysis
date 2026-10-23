@@ -1,0 +1,148 @@
+{
+  "source_rows":541909,
+  "clean_sales_rows":530104,
+  "unique_products":4026,
+  "unique_invoices":19960,
+  "known_customers":4338,
+  "total_units_sold":5588376,
+  "total_revenue_gbp":10666684.5399999991,
+  "repeat_customer_share_percent_among_known_customers":65.58,
+  "date_start":"2010-12-01 08:26:00",
+  "date_end":"2011-12-09 12:50:00",
+  "top_products_by_units":[
+    {
+      "Description":"PAPER CRAFT , LITTLE BIRDIE",
+      "UnitsSold":80995
+    },
+    {
+      "Description":"MEDIUM CERAMIC TOP STORAGE JAR",
+      "UnitsSold":78033
+    },
+    {
+      "Description":"WORLD WAR 2 GLIDERS ASSTD DESIGNS",
+      "UnitsSold":55047
+    },
+    {
+      "Description":"JUMBO BAG RED RETROSPOT",
+      "UnitsSold":48474
+    },
+    {
+      "Description":"WHITE HANGING HEART T-LIGHT HOLDER",
+      "UnitsSold":37891
+    },
+    {
+      "Description":"POPCORN HOLDER",
+      "UnitsSold":36761
+    },
+    {
+      "Description":"ASSORTED COLOUR BIRD ORNAMENT",
+      "UnitsSold":36461
+    },
+    {
+      "Description":"PACK OF 72 RETROSPOT CAKE CASES",
+      "UnitsSold":36419
+    },
+    {
+      "Description":"RABBIT NIGHT LIGHT",
+      "UnitsSold":30788
+    },
+    {
+      "Description":"MINI PAINT SET VINTAGE ",
+      "UnitsSold":26633
+    }
+  ],
+  "top_products_by_revenue":[
+    {
+      "Description":"DOTCOM POSTAGE",
+      "Revenue":206248.77
+    },
+    {
+      "Description":"REGENCY CAKESTAND 3 TIER",
+      "Revenue":174484.74
+    },
+    {
+      "Description":"PAPER CRAFT , LITTLE BIRDIE",
+      "Revenue":168469.6
+    },
+    {
+      "Description":"WHITE HANGING HEART T-LIGHT HOLDER",
+      "Revenue":106292.77
+    },
+    {
+      "Description":"PARTY BUNTING",
+      "Revenue":99504.33
+    },
+    {
+      "Description":"JUMBO BAG RED RETROSPOT",
+      "Revenue":94340.05
+    },
+    {
+      "Description":"MEDIUM CERAMIC TOP STORAGE JAR",
+      "Revenue":81700.92
+    },
+    {
+      "Description":"Manual",
+      "Revenue":78112.82
+    },
+    {
+      "Description":"POSTAGE",
+      "Revenue":78101.88
+    },
+    {
+      "Description":"RABBIT NIGHT LIGHT",
+      "Revenue":66964.99
+    }
+  ],
+  "top_countries_by_revenue":[
+    {
+      "Country":"United Kingdom",
+      "Revenue":9025222.0840000007,
+      "Orders":18019
+    },
+    {
+      "Country":"Netherlands",
+      "Revenue":285446.34,
+      "Orders":94
+    },
+    {
+      "Country":"EIRE",
+      "Revenue":283453.96,
+      "Orders":288
+    },
+    {
+      "Country":"Germany",
+      "Revenue":228867.14,
+      "Orders":457
+    },
+    {
+      "Country":"France",
+      "Revenue":209715.11,
+      "Orders":392
+    },
+    {
+      "Country":"Australia",
+      "Revenue":138521.31,
+      "Orders":57
+    },
+    {
+      "Country":"Spain",
+      "Revenue":61577.11,
+      "Orders":90
+    },
+    {
+      "Country":"Switzerland",
+      "Revenue":57089.9,
+      "Orders":54
+    },
+    {
+      "Country":"Belgium",
+      "Revenue":41196.34,
+      "Orders":98
+    },
+    {
+      "Country":"Sweden",
+      "Revenue":38378.33,
+      "Orders":36
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+EDAV PROJECT - ANALYSIS SUMMARY
+======================================
+source_rows: 541909
+clean_sales_rows: 530104
+unique_products: 4026
+unique_invoices: 19960
+known_customers: 4338
+total_units_sold: 5588376
+total_revenue_gbp: 10666684.54
+repeat_customer_share_percent_among_known_customers: 65.58
+date_start: 2010-12-01 08:26:00
+date_end: 2011-12-09 12:50:00
+
+Top products by units sold:
+- PAPER CRAFT , LITTLE BIRDIE: 80995
+- MEDIUM CERAMIC TOP STORAGE JAR: 78033
+- WORLD WAR 2 GLIDERS ASSTD DESIGNS: 55047
+- JUMBO BAG RED RETROSPOT: 48474
+- WHITE HANGING HEART T-LIGHT HOLDER: 37891
+- POPCORN HOLDER: 36761
+- ASSORTED COLOUR BIRD ORNAMENT: 36461
+- PACK OF 72 RETROSPOT CAKE CASES: 36419
+- RABBIT NIGHT LIGHT: 30788
+- MINI PAINT SET VINTAGE : 26633
+
+Note: Product descriptions are not official brand names. The dataset has no rating/satisfaction field.
